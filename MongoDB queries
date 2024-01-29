@@ -1,0 +1,31 @@
+
+1.Find all the information about each products
+query -->
+
+2.Find the product price which are between 400 to 800
+query -->
+
+3.Find the product price which are not between 400 to 600
+query -->
+
+4.List the four product which are grater than 500 in price 
+query -->
+
+5.Find the product name and product material of each products
+query -->
+
+6.Find the product with a row id of 10
+query -->
+
+7.Find only the product name and product material
+query -->
+
+8.Find all products which contain the value of soft in product material 
+query -->
+
+9.Find products which contain product color indigo  and product price 492.00
+query -->
+
+10.Delete the products which product price value are same
+query -->
+
